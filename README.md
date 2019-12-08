@@ -1,2 +1,2 @@
 # test-repository
-test
+Test repository for testing and repository-ing
